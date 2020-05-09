@@ -17,6 +17,7 @@ List of streamers and performers coming soon!
 * Friendly games
 ** Minecraft
 ** Cards Against Humanity
+** Mario Kart
 * Songs and prank calls
 * Interviews with your favorite streamers and entertainers
 
