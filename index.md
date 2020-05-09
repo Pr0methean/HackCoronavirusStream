@@ -4,10 +4,11 @@
 
 ## Who
 
-List of streamers and performers coming soon!
-<!--
-  [![](https://img.youtube.com/vi/NLrIs9-n0GQ/0.jpg)](https://www.youtube.com/watch?v=NLrIs9-n0GQ)
-  -->
+* Insomniac ([YouTube](https://www.youtube.com/channel/UCD2RIZRaVkYQ_uSRnP-oPYg), [Twitch](https://www.twitch.tv/synxyboii))
+* [Xancor](https://www.youtube.com/channel/UCxfb6N92LrYergf2ubfQV1g)
+* [Raypay2](https://www.periscope.tv/raypay2/1nAKEdZePWZxL)
+
+More streamers and performers to be announced!
 
 ## What
 
