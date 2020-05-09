@@ -1,4 +1,5 @@
-# Hack Coronavirus Stream
+# [![Hack Coronavirus Stream](images/banner.png)]
+
 ## Who
 
 List of streamers and performers coming soon!
@@ -11,6 +12,7 @@ List of streamers and performers coming soon!
 * Yu-Gi-Oh Duel Links tournament
 * Minecraft stream
 * Songs and prank calls
+* Cards Against Humanity
 * Interviews with your favorite streamers and entertainers
 * Q&A with the Software Developer
 
