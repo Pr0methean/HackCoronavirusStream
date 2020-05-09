@@ -31,5 +31,5 @@ On a YouTube and a Twitch channel to be determined.
 
 ## Why
 
-To raise money for a charity (to be announced) which will help deal wit the COVID-19 crisis in a
+To raise money for a charity (to be announced) which will help deal with the COVID-19 crisis in a
 cost-effective manner.
