@@ -11,12 +11,14 @@ List of streamers and performers coming soon!
 
 ## What
 
-* Yu-Gi-Oh Duel Links tournament
-* Minecraft stream
+* Tournaments
+** Yu-Gi-Oh: Duel Links
+** Wizard101
+* Friendly games
+** Minecraft
+** Cards Against Humanity
 * Songs and prank calls
-* Cards Against Humanity
 * Interviews with your favorite streamers and entertainers
-* Q&A with the Software Developer
 
 ## When
 
@@ -28,17 +30,5 @@ On a YouTube and a Twitch channel to be determined.
 
 ## Why
 
-The COVID-19 coronavirus is likely to evolve resistance to remdesivir, other antiviral drugs,
-and even the vaccines currently being tested. We need a treatment that can keep up with the
-virus's evolution, while keeping the risk of side effects low. RNA editing makes that possible.
-
-The [Hack Coronavirus](https://github.com/bionicles/coronavirus) project, run by scientist Bion
-Howard and software engineer Chris Hennick, is developing plasmids and delivery methods which
-will seek and destroy specific RNA sequences that are found in the virus, but not in healthy
-human cells, all using public data and open-source software.
-
-Like all medical treatments, these plasmids need to be tested in vitro and/or in animals,
-followed by human trials and then approval for clinical use. We're raising money for the first
-phase: in-vitro and animal testing. All proceeds from the stream will be administered by
-an established foundation (which will be named closer to the stream date) and used for lab
-testing of RNA-editing COVID-19 treatments.
+To raise money for a charity (to be announced) which will help deal wit the COVID-19 crisis in a
+cost-effective manner.
