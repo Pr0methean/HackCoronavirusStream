@@ -20,7 +20,7 @@ List of streamers and performers coming soon!
 
 ## Where
 
-On a YouTube channel to be determined.
+On a YouTube and a Twitch channel to be determined.
 
 ## Why
 
