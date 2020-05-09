@@ -1,4 +1,6 @@
-# [![Hack Coronavirus Stream](images/banner.png)]
+# Hack Coronavirus Stream
+
+[![Hack Coronavirus Stream](images/banner.png)]
 
 ## Who
 
