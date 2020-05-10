@@ -8,8 +8,10 @@ Are you a streamer or performer who wants to join? Got questions about the event
   **Committee Head**
   Discord: Kerberos#8786
   Email: [KerberosTerminal@gmail.com](mailto:KerberosTerminal@gmail.com)
-* Auralan
+  Phone: (929) 335-1256
+* Johnny
   Discord: AuraIan#5598
+  Email: [frostedstrawberry788@gmail.com](mailto:frostedstrawberry788@gmail.com)
 
 ## Other Members
 
@@ -19,7 +21,7 @@ Are you a streamer or performer who wants to join? Got questions about the event
   GitHub: [Pr0methean](https://github.com/pr0methean)
 * Alaska
   Discord: Alaska#8350
-* Fredophile
+* Fred
   Discord: Fredophile#4896
-* Hi I'm Dallas
+* Dallas
   Discord: Hi I'm Dallas#4428
