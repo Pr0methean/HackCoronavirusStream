@@ -5,15 +5,16 @@ Are you a streamer or performer who wants to join? Got questions about the event
 ## Executive Committee
 
 * Kerberos
-  Committee Head
+  **Committee Head**
   Discord: Kerberos#8786
+  Email: [KerberosTerminal@gmail.com](mailto:KerberosTerminal@gmail.com)
 * Auralan
   Discord: AuraIan#5598
 
 ## Other Members
 
 * Chris Hennick
-  Webmaster
+  **Webmaster**
   Discord: Pr0methean#2165
   GitHub: [Pr0methean](https://github.com/pr0methean)
 * Alaska
