@@ -1,3 +1,7 @@
+layout: page
+title: "Hack Coronavirus Stream"
+permalink: /index/
+
 # Hack Coronavirus Stream
 
 ![Hack Coronavirus Stream](images/banner.png)
