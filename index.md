@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Hack Coronavirus Stream"
 permalink: /index/
+---
 
 # Hack Coronavirus Stream
 
