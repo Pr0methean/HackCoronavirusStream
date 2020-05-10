@@ -1,7 +1,3 @@
-layout: page
-title: "Contact Us"
-permalink: /contact/
-
 # Contact Us
 
 Are you a streamer or performer who wants to join? Got questions about the event? Contact an Organizing Committee member.
