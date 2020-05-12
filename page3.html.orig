@@ -99,11 +99,14 @@
                 
                 
                 
+<<<<<<< HEAD
               <td class="body-item mbr-fonts-style display-7">Sasuke Uchiha</td><td class="body-item mbr-fonts-style display-7">Youtube</td><td class="body-item mbr-fonts-style display-7"><a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank">https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA</a></td><td class="body-item mbr-fonts-style display-7"></td></tr><tr> 
                 
                 
                 
                 
+=======
+>>>>>>> c0aac9f... Update with revised info
               <td class="body-item mbr-fonts-style display-7">Insomniac&nbsp;</td><td class="body-item mbr-fonts-style display-7">YouTube</td><td class="body-item mbr-fonts-style display-7"><a href="https://www.periscope.tv/raypay2/1nAKEdZePWZxL" target="_blank">https://www.youtube.com/channel/UCD2RIZRaVkYQ_uSRnP-oPYg</a></td><td class="body-item mbr-fonts-style display-7"></td></tr><tr> 
                 
                 
@@ -225,6 +228,11 @@
   <script src="assets/witsec-mailform/witsec-mailform.js"></script>
   
   
+<<<<<<< HEAD
   <input name="animation" type="hidden">
   </body>
 </html>
+=======
+</body>
+</html>
+>>>>>>> c0aac9f... Update with revised info
