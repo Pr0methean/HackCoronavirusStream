@@ -42,7 +42,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="index.html">Kerberos Commitee Stream</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-5" href="index.html">HackCoronavirusStream</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -58,7 +58,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/l">free site templates</a></section><section class="section-table cid-rYCLlSQcDA" id="table1-p">
+<section class="engine"><a href="https://mobirise.info/x">free css templates</a></section><section class="section-table cid-rYCLlSQcDA" id="table1-p">
 
   
   
@@ -99,11 +99,14 @@
                 
                 
                 
+<<<<<<< HEAD
               <td class="body-item mbr-fonts-style display-7">Sasuke Uchiha</td><td class="body-item mbr-fonts-style display-7">Youtube</td><td class="body-item mbr-fonts-style display-7"><a href="https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA" target="_blank">https://www.youtube.com/channel/UCnlx1v8gD-xyuwAoHxo4BMA</a></td><td class="body-item mbr-fonts-style display-7"></td></tr><tr> 
                 
                 
                 
                 
+=======
+>>>>>>> c0aac9f... Update with revised info
               <td class="body-item mbr-fonts-style display-7">Insomniac&nbsp;</td><td class="body-item mbr-fonts-style display-7">YouTube</td><td class="body-item mbr-fonts-style display-7"><a href="https://www.periscope.tv/raypay2/1nAKEdZePWZxL" target="_blank">https://www.youtube.com/channel/UCD2RIZRaVkYQ_uSRnP-oPYg</a></td><td class="body-item mbr-fonts-style display-7"></td></tr><tr> 
                 
                 
@@ -186,7 +189,7 @@
                     
                     
                     
-                <li class="foot-menu-item mbr-fonts-style display-7"><a href="page1.html" class="text-white">Schedule</a></li><li class="foot-menu-item mbr-fonts-style display-7"><p><a href="page2.html"></a><a href="page2.html" class="text-white">Contact </a><a href="page2.html" class="text-white">Us</a></p></li><li class="foot-menu-item mbr-fonts-style display-7"><p><a href="page2.html"></a><a href="page3.html" target="_blank" class="text-white">Streamers</a></p></li></ul>
+                <li class="foot-menu-item mbr-fonts-style display-7"><a href="page1.html" class="text-white">Schedule</a></li><li class="foot-menu-item mbr-fonts-style display-7"><p><a href="page2.html"></a><a href="page2.html" class="text-white">Contact </a><a href="page2.html" class="text-white">Us</a></p></li></ul>
             </div>
             <div class="row social-row">
                 <div class="social-list align-right pb-2">
@@ -225,6 +228,11 @@
   <script src="assets/witsec-mailform/witsec-mailform.js"></script>
   
   
+<<<<<<< HEAD
   <input name="animation" type="hidden">
   </body>
 </html>
+=======
+</body>
+</html>
+>>>>>>> c0aac9f... Update with revised info
